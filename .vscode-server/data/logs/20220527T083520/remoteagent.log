@@ -1,0 +1,11 @@
+[2022-05-27 08:35:20.794] [remoteagent] [info] Extension host agent started.
+[2022-05-27 08:35:21.485] [remoteagent] [info] [127.0.0.1][5017845a][ManagementConnection] New connection established.
+[2022-05-27 08:35:21.618] [remoteagent] [info] [127.0.0.1][2d4e4dbb][ExtensionHostConnection] New connection established.
+[2022-05-27 08:35:21.629] [remoteagent] [info] [127.0.0.1][2d4e4dbb][ExtensionHostConnection] <26480> Launched Extension Host Process.
+[2022-05-27 16:38:31.536] [remoteagent] [info] [127.0.0.1][a62c1e57][ManagementConnection] New connection established.
+[2022-05-27 16:38:31.707] [remoteagent] [info] [127.0.0.1][ec77ad66][ExtensionHostConnection] New connection established.
+[2022-05-27 16:38:31.745] [remoteagent] [info] [127.0.0.1][ec77ad66][ExtensionHostConnection] <30426> Launched Extension Host Process.
+[2022-05-27 19:49:32.291] [remoteagent] [info] [127.0.0.1][2d4e4dbb][ExtensionHostConnection] <26480> Extension Host Process exited with code: 0, signal: null.
+[2022-05-27 21:29:06.701] [remoteagent] [info] [127.0.0.1][ec77ad66][ExtensionHostConnection] <30426> Extension Host Process exited with code: 0, signal: null.
+[2022-05-27 21:29:06.704] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-05-27 21:34:06.708] [remoteagent] [info] Last EH closed, shutting down

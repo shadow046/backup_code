@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[branch "main"]
+[remote "origin"]
+	url = git@github.com:lancenacabuan/lsapp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

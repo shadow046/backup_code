@@ -1,0 +1,1 @@
+<p>Attached herewith is your copy of the @if (auth()->user()->branch->branch != "Conversion")Defective @else Conversion @endif Delivery Receipt with Reference Number: {{$return_no}}.</p>

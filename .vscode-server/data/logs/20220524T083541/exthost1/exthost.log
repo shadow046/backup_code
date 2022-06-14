@@ -1,0 +1,18 @@
+[2022-05-24 08:35:45.009] [exthost] [info] Extension host with pid 4213 started
+[2022-05-24 08:35:45.184] [exthost] [info] Lock '/var/www/html/.vscode-server/data/User/workspaceStorage/da22d6ceb0d1b4cb3a1e71ee169b749f/vscode.lock': Lock acquired.
+[2022-05-24 08:35:45.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-24 08:35:45.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-24 08:35:45.478] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-24 08:35:45.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-24 08:35:45.522] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-05-24 08:35:46.946] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-24 08:35:47.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-24 08:35:51.783] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 08:35:52.014] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 08:35:52.116] [exthost] [info] Eager extensions activated
+[2022-05-24 08:42:45.338] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-05-24 09:31:59.673] [exthost] [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade, startup: false, activationEvent: 'onLanguage:blade'
+[2022-05-24 10:11:04.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-05-24 12:36:00.432] [exthost] [info] Extension host terminating: renderer disconnected for too long (2)
+[2022-05-24 12:36:00.547] [exthost] [info] Lock '/var/www/html/.vscode-server/data/User/workspaceStorage/da22d6ceb0d1b4cb3a1e71ee169b749f/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-05-24 12:36:00.988] [exthost] [info] Extension host with pid 4213 exiting with code 0

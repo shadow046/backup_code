@@ -1,0 +1,17 @@
+[2022-06-03 08:39:59.836] [remoteagent] [info] Extension host agent started.
+[2022-06-03 08:40:00.519] [remoteagent] [info] [127.0.0.1][0fb7dcc2][ManagementConnection] New connection established.
+[2022-06-03 08:40:00.719] [remoteagent] [info] [127.0.0.1][6198b7b4][ExtensionHostConnection] New connection established.
+[2022-06-03 08:40:00.737] [remoteagent] [info] [127.0.0.1][6198b7b4][ExtensionHostConnection] <21112> Launched Extension Host Process.
+[2022-06-03 15:51:53.409] [remoteagent] [info] [127.0.0.1][0fb7dcc2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-06-03 15:51:53.467] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/html/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/server/node/server.main.js:143:7914)
+    at process.emit (node:events:390:28)
+[2022-06-03 16:33:20.991] [remoteagent] [info] [127.0.0.1][0fb7dcc2][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-06-03 16:33:20.997] [remoteagent] [info] [127.0.0.1][7ba4707e][ManagementConnection] New connection established.
+[2022-06-03 16:33:21.077] [remoteagent] [info] [127.0.0.1][286b1be1][ExtensionHostConnection] New connection established.
+[2022-06-03 16:33:21.109] [remoteagent] [info] [127.0.0.1][286b1be1][ExtensionHostConnection] <28345> Launched Extension Host Process.
+[2022-06-03 16:38:21.531] [remoteagent] [info] [127.0.0.1][0fb7dcc2][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2022-06-03 16:38:21.846] [remoteagent] [info] [127.0.0.1][6198b7b4][ExtensionHostConnection] <21112> Extension Host Process exited with code: 0, signal: null.
+[2022-06-03 21:27:26.057] [remoteagent] [info] [127.0.0.1][286b1be1][ExtensionHostConnection] <28345> Extension Host Process exited with code: 0, signal: null.
+[2022-06-03 21:27:26.071] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-06-03 21:32:26.094] [remoteagent] [info] Last EH closed, shutting down
